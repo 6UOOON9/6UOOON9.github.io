@@ -1,11 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: 噢，我这个粗糙的个人博客
+author: 6UOOON9
+email: 1805063546@qq.com
 copyright: © 2019 GitHub User
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  峡谷黑铁召唤师，大乱斗养老玩家，主玩AD，主要负责吸引火力，一碰就碎。
+  黑色玫瑰，在线起飞，芜湖！！！
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,21 +16,9 @@ lin:
 
   # generate social links
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    medium:  jekyll
-    rss: rss
-    dribbble: jekyll
-    facebook: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
+
+    github:  https://github.com/6UOOON9
+
 
 theme: lin
 
