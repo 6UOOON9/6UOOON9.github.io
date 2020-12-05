@@ -12,7 +12,7 @@ lin:
   date_format: "%b %-d, %Y"
 
   # path to the author avatar image
-  avatar_path: assets/images/avatar.jpg
+  avatar_path: https://gss0.baidu.com/7Ls0a8Sm2Q5IlBGlnYG/sys/portraith/item/tb.1.9e18fb72.D_DhpeCK5wI2iKGng6jz4w?t=1435615297
 
   # generate social links
   social_links:
