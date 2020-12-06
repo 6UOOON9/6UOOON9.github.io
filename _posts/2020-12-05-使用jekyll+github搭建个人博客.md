@@ -1,7 +1,8 @@
-
+﻿@[TOC](使用jekyll+github搭建个人博客)
 # 安装环境
 **首先声明，我用的是ubuntu20.04。**
-既然要用到jekyll，我们就先需要把jekyll装好，但是jekyll也需要依赖：
+
+既然要用到jekyll，我们就先需要把jekyll装好，但是jekyll也需要依赖。
 ```
 sudo apt-get ruby-full						//这个是jekyll需要的依赖，为了完整性我选择了full
 ```
@@ -14,8 +15,7 @@ sudo apt-get ruby-full						//这个是jekyll需要的依赖，为了完整性�
 `https://user.name.github.io/`看看默认的页面。
 
 **这也就是你之后的个人博客的网址。**
-
-![示例](https://img-blog.csdnimg.cn/2020120522150425.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl81Mjc5NjI3Mg==,size_16,color_FFFFFF,t_70#pic_center)
+![示例](https://img-blog.csdnimg.cn/20201206163525239.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl81Mjc5NjI3Mg==,size_16,color_FFFFFF,t_70#pic_center)
 在本地新建一个你的本地git仓库，你可以先`git clone <你自己的资源仓库的url>`，然后把里面
 
 的文件都清空。
