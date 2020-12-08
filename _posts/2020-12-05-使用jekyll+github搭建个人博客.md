@@ -15,7 +15,7 @@ sudo apt-get ruby-full						//这个是jekyll需要的依赖，为了完整性�
 `https://user.name.github.io/`看看默认的页面。
 
 **这也就是你之后的个人博客的网址。**
-![示例](https://img-blog.csdnimg.cn/20201206163525239.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl81Mjc5NjI3Mg==,size_16,color_FFFFFF,t_70#pic_center)
+<img src="https://img-blog.csdnimg.cn/20201206163525239.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl81Mjc5NjI3Mg==,size_16,color_FFFFFF,t_70#pic_center"/>
 在本地新建一个你的本地git仓库，你可以先`git clone <你自己的资源仓库的url>`，然后把里面
 
 的文件都清空。
